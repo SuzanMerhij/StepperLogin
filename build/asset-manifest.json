@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AddJob/static/css/main.2f2dde94.css",
+    "main.js": "/AddJob/static/js/main.89bce724.js",
+    "static/js/787.98651143.chunk.js": "/AddJob/static/js/787.98651143.chunk.js",
+    "static/media/background-login.png": "/AddJob/static/media/background-login.a4aa2db715692467fcee.png",
+    "index.html": "/AddJob/index.html",
+    "main.2f2dde94.css.map": "/AddJob/static/css/main.2f2dde94.css.map",
+    "main.89bce724.js.map": "/AddJob/static/js/main.89bce724.js.map",
+    "787.98651143.chunk.js.map": "/AddJob/static/js/787.98651143.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f2dde94.css",
+    "static/js/main.89bce724.js"
+  ]
+}
